@@ -12,6 +12,7 @@
         "laravel/jetstream": "^4.2",
         "laravel/sanctum": "^3.3",
         "laravel/tinker": "^2.8",
+        "openai-php/laravel": "dev-add-assistants-api",
         "tightenco/ziggy": "^1.0"
     },
     "require-dev": {
@@ -64,6 +65,6 @@
             "php-http/discovery": true
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }

@@ -1,0 +1,51 @@
+Order Date,Category,Product Name,Quantity,Price Per Unit,Total Price
+2023-01-01,Books,T-shirt,2,81.91,163.82
+2023-01-21,Toys & Games,Sci-Fi Novel,1,66.79,66.79
+2023-01-24,Home & Kitchen,Coffee Maker,1,29.78,29.78
+2023-02-09,Books,T-shirt,3,28.53,85.59
+2023-02-10,Clothing,Coffee Maker,2,59.13,118.26
+2023-02-27,Toys & Games,Coffee Maker,2,32.43,64.86
+2023-03-03,Clothing,Sci-Fi Novel,2,13.17,26.34
+2023-03-10,Clothing,Sci-Fi Novel,3,36.08,108.24
+2023-03-12,Toys & Games,Board Game,3,57.03,171.09
+2023-03-23,Toys & Games,Bluetooth Speaker,2,47.97,95.94
+2023-03-26,Clothing,Sci-Fi Novel,1,20.63,20.63
+2023-03-26,Toys & Games,Board Game,3,85.54,256.62
+2023-03-27,Clothing,T-shirt,2,51.51,103.02
+2023-04-02,Clothing,Bluetooth Speaker,3,19.48,58.44
+2023-04-04,Electronics,Coffee Maker,3,28.5,85.5
+2023-04-11,Books,Sci-Fi Novel,3,20.92,62.760000000000005
+2023-04-13,Clothing,Bluetooth Speaker,2,25.51,51.02
+2023-04-13,Electronics,Sci-Fi Novel,1,17.89,17.89
+2023-04-19,Books,Bluetooth Speaker,1,71.83,71.83
+2023-05-06,Electronics,Sci-Fi Novel,1,28.86,28.86
+2023-05-10,Electronics,Bluetooth Speaker,2,74.5,149.0
+2023-05-11,Toys & Games,Sci-Fi Novel,3,59.66,178.98
+2023-05-15,Home & Kitchen,Board Game,3,43.04,129.12
+2023-05-19,Toys & Games,T-shirt,2,90.35,180.7
+2023-05-21,Books,Board Game,3,89.52,268.56
+2023-05-24,Home & Kitchen,Board Game,1,15.95,15.95
+2023-06-02,Toys & Games,Sci-Fi Novel,3,30.96,92.88
+2023-06-29,Books,Coffee Maker,2,16.77,33.54
+2023-07-03,Home & Kitchen,Coffee Maker,1,99.77,99.77
+2023-07-04,Toys & Games,Bluetooth Speaker,1,43.56,43.56
+2023-07-04,Clothing,Sci-Fi Novel,3,63.98,191.94
+2023-07-20,Electronics,Board Game,2,62.95,125.9
+2023-07-23,Clothing,Coffee Maker,1,28.75,28.75
+2023-08-16,Clothing,T-shirt,2,83.85,167.7
+2023-08-19,Books,Sci-Fi Novel,2,85.55,171.1
+2023-08-26,Toys & Games,Sci-Fi Novel,3,87.16,261.48
+2023-09-17,Electronics,T-shirt,3,62.51,187.53
+2023-10-13,Electronics,Sci-Fi Novel,3,70.18,210.54000000000002
+2023-10-14,Books,Bluetooth Speaker,2,37.65,75.3
+2023-10-23,Books,Sci-Fi Novel,2,59.77,119.54
+2023-10-26,Books,T-shirt,2,97.4,194.8
+2023-11-03,Electronics,Sci-Fi Novel,2,42.18,84.36
+2023-11-07,Toys & Games,Bluetooth Speaker,1,22.85,22.85
+2023-11-12,Toys & Games,T-shirt,3,88.36,265.08
+2023-11-20,Books,Sci-Fi Novel,3,47.33,141.99
+2023-11-23,Books,Coffee Maker,1,22.28,22.28
+2023-11-26,Books,Bluetooth Speaker,1,20.17,20.17
+2023-12-08,Books,Sci-Fi Novel,3,60.05,180.14999999999998
+2023-12-13,Books,T-shirt,1,13.04,13.04
+2023-12-15,Clothing,T-shirt,1,13.2,13.2
